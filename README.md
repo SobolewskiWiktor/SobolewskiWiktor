@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SobolewskiWiktor
 - 👀 I’m interested in programming and server administration. 
-- 🌱 I’m currently working in Euvic as a IT System Administrator.
+- 🌱 I’m currently working in Orange Polska as a IT System Administrator.
 - 💞️ I’m curently learning about VUE JS. 
 - 📫 See my website sobol.tech
 <!---
